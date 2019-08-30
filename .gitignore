@@ -5,11 +5,11 @@ hooks
 merges
 platforms
 plugins
-config.xml
+#config.xml
 bower.json
 gulpfile.js
 ionic.project
-package.json
+#package.json
 scss
 .bowerrc
 .brackets.json
